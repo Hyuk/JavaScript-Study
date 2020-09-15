@@ -1,5 +1,4 @@
 # JavaScript-Study
-JavaScript
 
 * [Comment](https://github.com/Hyuk/JavaScript-Study/blob/master/comment.md)
 
