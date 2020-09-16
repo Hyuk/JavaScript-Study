@@ -108,7 +108,7 @@ console.log(num1 / num2); // NaN
 typeof(num1 / num2); // "number"
 ```
 
-### Modulo/Reminder (%)
+### Modulo (%)
 ```javascript
 // Number % Number
 var num1 = 5;
