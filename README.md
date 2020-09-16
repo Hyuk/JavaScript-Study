@@ -1,9 +1,7 @@
-# JavaScript-Study
+# JavaScript
 
-* [Comment](https://github.com/Hyuk/JavaScript-Study/blob/master/comment.md)
+* [JavaScript Basics](https://github.com/Hyuk/JavaScript-Study/blob/master/javascript-basics)
 
-* [Variable](https://github.com/Hyuk/JavaScript-Study/blob/master/variable.md)
+* [JavaScript Algorithms](https://github.com/Hyuk/JavaScript-Study/blob/master/javascript-algorithms)
 
-* [Operation](https://github.com/Hyuk/JavaScript-Study/blob/master/operation.md)
-
-* [Condition](https://github.com/Hyuk/JavaScript-Study/blob/master/condition.md)
+* [JavaScript Projects](https://github.com/Hyuk/JavaScript-Study/blob/master/javascript-projects)
