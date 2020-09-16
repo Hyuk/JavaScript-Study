@@ -1,24 +1,14 @@
 # Algorithm
 
-## Convert Celsius to Fahrenheit
 
-```javascript
-function convertToF(celsius) {
-  let fahrenheit = celsius*9/5+32;
-  return fahrenheit;
-}
+### Numbers
 
-convertToF(30);
-```
+* [Convert Celsius to Fahrenheit](https://github.com/Hyuk/JavaScript-Study/blob/master/javascript-algorithms/javascript-algorithms/celsius-to-fahrenheit.md)
 
-## Reverse a String
-```javascript
-function reverseString(str) {
-  return str.split("").reverse().join("");
-}
+### Strings
 
-reverseString("hello");
-```
+* [Reverse a String](https://github.com/Hyuk/JavaScript-Study/blob/master/javascript-algorithms/javascript-algorithms/reverse-a-string.md)
+
 
 ## Factorialize a Number
 ```javascript
