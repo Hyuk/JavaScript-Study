@@ -57,8 +57,24 @@ function matrix(n) {
       counter++;
     }
     startRow++;
-    
+    for(i = startRow; i<= endRow; i++) {
+      result[i][endColumn] = counter;
+      counter++;
+    }
+    endColumn--;
+    for(i = endColumn; i>=startColumn; i--) {
+      result[endRow][i] = counter;
+      counter++
+    }
+    endRow--;
+    for(i = endRow; i>=startRow; i--) {
+      result[i][startColumn] = counter;
+      counter++
+    }
+    startCoumn++;
   }
+  
+  return results;
 }
 
 matrix(n);
