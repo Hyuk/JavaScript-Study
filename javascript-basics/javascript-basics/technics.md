@@ -18,6 +18,13 @@
 * [15 Useful JS Examples of map(), reduce() and filter()](https://medium.com/@alex.permyakov/15-useful-javascript-examples-of-map-reduce-and-filter-74cbbb5e0a1f)
 * [Limit 400 char with ellipsis](#limit-400-char-with-ellipsis)
 
+## Declare Array
+```javascript
+const a = [];
+a[3] = 'test';
+[null,null,null,'test'];
+```
+
 ## Remove duplicates from an array of numbers/strings
 ```javascript
 let values = [3, 1, 3, 5, 2, 4, 4, 4];
