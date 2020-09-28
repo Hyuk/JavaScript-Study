@@ -1,6 +1,8 @@
 # Algorithm
 
-### [Runtiem Complexity](https://github.com/Hyuk/JavaScript-Study/blob/master/javascript-algorithms/javascript-algorithms/runtime-complexity.md)
+* [Runtiem Complexity](https://github.com/Hyuk/JavaScript-Study/blob/master/javascript-algorithms/javascript-algorithms/runtime-complexity.md)
+
+* [Data Structures](https://github.com/Hyuk/JavaScript-Study/blob/master/javascript-algorithms/javascript-algorithms/data-structures.md)
 
 ### Numbers
 * [Convert Celsius to Fahrenheit](https://github.com/Hyuk/JavaScript-Study/blob/master/javascript-algorithms/javascript-algorithms/celsius-to-fahrenheit.md)
@@ -8,6 +10,8 @@
 * [Fibonacci Series - Iterative Solution](https://github.com/Hyuk/JavaScript-Study/blob/master/javascript-algorithms/javascript-algorithms/fibonacci-series-iterative-solution.md)
 
 * [Fibonacci Series - Recursive Solution](https://github.com/Hyuk/JavaScript-Study/blob/master/javascript-algorithms/javascript-algorithms/fibonacci-series-recursive-solution.md)
+
+* [Fibonacci Series - Memoization Solution](https://github.com/Hyuk/JavaScript-Study/blob/master/javascript-algorithms/javascript-algorithms/fibonacci-series-memoization-solution.md)
 
 * [Factorialize a Number](https://github.com/Hyuk/JavaScript-Study/blob/master/javascript-algorithms/javascript-algorithms/factorialize-number.md)
 

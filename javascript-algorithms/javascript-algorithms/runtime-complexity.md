@@ -9,7 +9,7 @@
   // abc -> cba
   // abcdefghijklmnopqrstuvwxyz -> zyxwvutsrqponmlkjihgfedcba
   ```
-  * [Fibonacci Series](https://github.com/Hyuk/JavaScript-Study/blob/master/javascript-algorithms/javascript-algorithms/fibonacci-series-iterative-solution.md)
+  * [Fibonacci Series - Iterative Solution](https://github.com/Hyuk/JavaScript-Study/blob/master/javascript-algorithms/javascript-algorithms/fibonacci-series-iterative-solution.md)
 
 * Quasilinear Time - n * Log(n) - You have this if doubling the number of elements you are iterating over doesn't double the amount of work. Always assume that any sorting operation is n * log(n)
 
@@ -30,7 +30,8 @@
   // # # # #
   ```
 * Exponential Time - 2 ^ n - If you add a *single* element to a collection, the processing power required doubles
-
+  * [Fibonacci Series - Recursive Solution](https://github.com/Hyuk/JavaScript-Study/blob/master/javascript-algorithms/javascript-algorithms/fibonacci-series-recursive-solution.md)
+  
 * Big 'O' Notation
   * O(n) - Linear
   * O(1) - Constant
