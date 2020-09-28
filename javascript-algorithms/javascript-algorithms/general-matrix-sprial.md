@@ -1,6 +1,6 @@
 # General Matrix Sprial
 
-* [Source code](https://github.com/Hyuk/JavaScript-Study/blob/master/javascript-algorithms/javascript-algorithms/matrix.md) 
+* [Source code](https://github.com/Hyuk/JavaScript-Study/blob/master/javascript-algorithms/javascript-algorithms/matrix/index.js) 
 
 ```javascript
 // input
