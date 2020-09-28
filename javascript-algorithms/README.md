@@ -11,6 +11,7 @@
   // abc -> cba
   // abcdefghijklmnopqrstuvwxyz -> zyxwvutsrqponmlkjihgfedcba
   ```
+  * [Fibonacci Series](https://github.com/Hyuk/JavaScript-Study/blob/master/javascript-algorithms/javascript-algorithms/fibonacci-series.md)
 
 * Quasilinear Time - n * Log(n) - You have this if doubling the number of elements you are iterating over doesn't double the amount of work. Always assume that any sorting operation is n * log(n)
 
@@ -51,29 +52,13 @@
 
 * [Fibonacci Series](https://github.com/Hyuk/JavaScript-Study/blob/master/javascript-algorithms/javascript-algorithms/fibonacci-series.md)
 
+* [Factorialize a Number](https://github.com/Hyuk/JavaScript-Study/blob/master/javascript-algorithms/javascript-algorithms/factorialize-number.md)
+
 ### Arrays
 * [General Matrix Sprial](https://github.com/Hyuk/JavaScript-Study/blob/master/javascript-algorithms/javascript-algorithms/general-matrix-sprial.md)
 
 ### Strings
 * [Reverse a String](https://github.com/Hyuk/JavaScript-Study/blob/master/javascript-algorithms/javascript-algorithms/reverse-a-string.md)
-
-### Runtiem Complexity
-```javascript
-
-```
-
-### Factorialize a Number
-```javascript
-function factorialize(num) {
-  let factorialNum = 1;
-  for (let i = 1; i <= num; i++){
-    factorialNum *= i;
-  }
-  return factorialNum;
-}
-
-factorialize(5);
-```
 
 ## Find the Longest Word in a String
 ```javascript
