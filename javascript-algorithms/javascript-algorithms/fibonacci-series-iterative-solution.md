@@ -1,6 +1,6 @@
-# Fibonacci Series
+# Fibonacci Series - Iterative Solution
 
-* [Source code](https://github.com/Hyuk/JavaScript-Study/blob/master/javascript-algorithms/javascript-algorithms/fibonacci-series/index.js) 
+* [Source code](https://github.com/Hyuk/JavaScript-Study/blob/master/javascript-algorithms/javascript-algorithms/fibonacci-series-iterative-solution/index.js) 
 
 ```javascript
 function fib(n) {
