@@ -3,6 +3,9 @@
 * [Runtiem Complexity](https://github.com/Hyuk/JavaScript-Study/blob/master/javascript-algorithms/javascript-algorithms/runtime-complexity.md)
 
 * [Data Structures](https://github.com/Hyuk/JavaScript-Study/blob/master/javascript-algorithms/javascript-algorithms/data-structures.md)
+  * [Queue](https://github.com/Hyuk/JavaScript-Study/blob/master/javascript-algorithms/javascript-algorithms/queue.md)
+
+  * [Weave](https://github.com/Hyuk/JavaScript-Study/blob/master/javascript-algorithms/javascript-algorithms/weave.md)
 
 ### Numbers
 * [Convert Celsius to Fahrenheit](https://github.com/Hyuk/JavaScript-Study/blob/master/javascript-algorithms/javascript-algorithms/celsius-to-fahrenheit.md)
@@ -17,10 +20,6 @@
 
 ### Arrays
 * [General Matrix Sprial](https://github.com/Hyuk/JavaScript-Study/blob/master/javascript-algorithms/javascript-algorithms/general-matrix-sprial.md)
-
-* [Queue](https://github.com/Hyuk/JavaScript-Study/blob/master/javascript-algorithms/javascript-algorithms/queue.md)
-
-* [Weave](https://github.com/Hyuk/JavaScript-Study/blob/master/javascript-algorithms/javascript-algorithms/weave.md)
 
 ### Strings
 * [Reverse a String](https://github.com/Hyuk/JavaScript-Study/blob/master/javascript-algorithms/javascript-algorithms/reverse-a-string.md)
