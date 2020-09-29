@@ -18,6 +18,10 @@
 ### Arrays
 * [General Matrix Sprial](https://github.com/Hyuk/JavaScript-Study/blob/master/javascript-algorithms/javascript-algorithms/general-matrix-sprial.md)
 
+* [Queue](https://github.com/Hyuk/JavaScript-Study/blob/master/javascript-algorithms/javascript-algorithms/queue.md)
+
+* [Weave](https://github.com/Hyuk/JavaScript-Study/blob/master/javascript-algorithms/javascript-algorithms/weave.md)
+
 ### Strings
 * [Reverse a String](https://github.com/Hyuk/JavaScript-Study/blob/master/javascript-algorithms/javascript-algorithms/reverse-a-string.md)
 
