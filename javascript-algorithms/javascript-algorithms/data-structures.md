@@ -11,5 +11,4 @@
 Queue | Array Equivalent
 --- | ---
 Add Queue | array.unshift();
---- | ---
 Remove from Queue | array.pop();
