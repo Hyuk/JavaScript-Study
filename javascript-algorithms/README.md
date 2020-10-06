@@ -9,6 +9,8 @@
 
   * [Stack](https://github.com/Hyuk/JavaScript-Study/blob/master/javascript-algorithms/javascript-algorithms/stack.md)
 
+  * [Linked List](https://github.com/Hyuk/JavaScript-Study/blob/master/javascript-algorithms/javascript-algorithms/linked-list.md)
+
 ### Numbers
 * [Convert Celsius to Fahrenheit](https://github.com/Hyuk/JavaScript-Study/blob/master/javascript-algorithms/javascript-algorithms/celsius-to-fahrenheit.md)
 
