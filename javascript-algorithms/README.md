@@ -25,6 +25,7 @@
 
   * [Validating a Binary Search Tree](https://github.com/Hyuk/JavaScript-Study/blob/master/javascript-algorithms/javascript-algorithms/validating-a-binary-search-tree.md)
 
+  * [Events](https://github.com/Hyuk/JavaScript-Study/blob/master/javascript-algorithms/javascript-algorithms/events.md)
 ### Numbers
 * [Convert Celsius to Fahrenheit](https://github.com/Hyuk/JavaScript-Study/blob/master/javascript-algorithms/javascript-algorithms/celsius-to-fahrenheit.md)
 
