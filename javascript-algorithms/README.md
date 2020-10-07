@@ -11,6 +11,20 @@
 
   * [Linked List](https://github.com/Hyuk/JavaScript-Study/blob/master/javascript-algorithms/javascript-algorithms/linked-list.md)
 
+  * [Midpoint](https://github.com/Hyuk/JavaScript-Study/blob/master/javascript-algorithms/javascript-algorithms/midpoint.md)
+
+  * [Circular List](https://github.com/Hyuk/JavaScript-Study/blob/master/javascript-algorithms/javascript-algorithms/circular-list.md)
+
+  * [From Last](https://github.com/Hyuk/JavaScript-Study/blob/master/javascript-algorithms/javascript-algorithms/from-last.md)
+
+  * [Tree](https://github.com/Hyuk/JavaScript-Study/blob/master/javascript-algorithms/javascript-algorithms/tree.md)
+
+  * [Tree Level Width](https://github.com/Hyuk/JavaScript-Study/blob/master/javascript-algorithms/javascript-algorithms/tree-level-width.md)
+
+  * [Binary Search Tree](https://github.com/Hyuk/JavaScript-Study/blob/master/javascript-algorithms/javascript-algorithms/binary-search-tree.md)
+
+  * [Validating a Binary Search Tree](https://github.com/Hyuk/JavaScript-Study/blob/master/javascript-algorithms/javascript-algorithms/validating-a-binary-search-tree.md)
+
 ### Numbers
 * [Convert Celsius to Fahrenheit](https://github.com/Hyuk/JavaScript-Study/blob/master/javascript-algorithms/javascript-algorithms/celsius-to-fahrenheit.md)
 
