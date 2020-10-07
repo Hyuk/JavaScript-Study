@@ -43,6 +43,10 @@
 ### Strings
 * [Reverse a String](https://github.com/Hyuk/JavaScript-Study/blob/master/javascript-algorithms/javascript-algorithms/reverse-a-string.md)
 
+
+### Sorting
+* [Bubble Sort](https://github.com/Hyuk/JavaScript-Study/blob/master/javascript-algorithms/javascript-algorithms/bubble-sort.md)
+
 ## Find the Longest Word in a String
 ```javascript
 function findLongestWordLength(str) {
