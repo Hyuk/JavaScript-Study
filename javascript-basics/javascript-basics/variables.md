@@ -30,7 +30,7 @@ console.log(num1); // 12
 typeof num1; // "number"
 ```
 
-### string
+### [string](/string/string.md)
 ```javascript
 var text1 = "Hello World";
 console.log(text1); // "Hello World"
