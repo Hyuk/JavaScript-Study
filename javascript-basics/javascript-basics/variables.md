@@ -1,7 +1,7 @@
 # Variables
 * undefined
 * number
-* string
+* [string](#string)
 * symbol
 * object
 * function
@@ -30,7 +30,7 @@ console.log(num1); // 12
 typeof num1; // "number"
 ```
 
-### [string](/string/string.md)
+### [string](/variables/string.md)
 ```javascript
 var text1 = "Hello World";
 console.log(text1); // "Hello World"
