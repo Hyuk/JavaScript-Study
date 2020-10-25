@@ -9,9 +9,10 @@
 * null
 
 ### JavaScript Variable Name Rule
-Variable names are case sensitive.
-First letter should be alphabet(a), underscore(_), dollor sign($)
-Recommend to use camelCase when declaring a variable.
+* Variable names are case sensitive.
+* First letter should be alphabet(a), underscore(_), dollor sign($)
+* Recommend to use camelCase when declaring a variable.
+* Shouldn't be the reserved keyword
 
 ### Javascript Reserved Keyword
 break | case  | catch | continue
