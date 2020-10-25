@@ -1,6 +1,6 @@
 # JavaScript-Basics
 
-* [Comment](https://github.com/Hyuk/JavaScript-Study/blob/master/javascript-basics/javascript-basics/comment.md)
+* [How to add comment](https://github.com/Hyuk/JavaScript-Study/blob/master/javascript-basics/javascript-basics/comment.md)
 
 * [Variable](https://github.com/Hyuk/JavaScript-Study/blob/master/javascript-basics/javascript-basics/variable.md)
 
