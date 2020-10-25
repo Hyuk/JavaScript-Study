@@ -2,7 +2,7 @@
 
 * [Basics](javascript-basics/basics.md)
 
-* [Variable](javascript-basics/variable.md)
+* [Variable](javascript-basics/variables.md)
 
 * [Operation](javascript-basics/operation.md)
 
