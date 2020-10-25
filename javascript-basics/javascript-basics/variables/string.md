@@ -12,7 +12,7 @@ let string5 = 'It\'s six o\'clock.';
 let string6 = "Remember to say \"please\" and \"thank you.\"";
 ```
 
-### How to many characters in string.
+### Count how many characters in string.
 ```javascript
 "caterpillar".length;
 
