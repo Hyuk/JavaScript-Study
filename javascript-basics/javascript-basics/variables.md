@@ -8,8 +8,19 @@
 * boolean
 * null
 
+### JavaScript Variable Name Rule
 Variable names are case sensitive.
+First letter should be alphabet(a), underscore(_), dollor sign($)
 Recommend to use camelCase when declaring a variable.
+
+### Javascript Reserved Keyword
+break | case  | catch | continue
+default | delete  | do  | else
+false | finally | for | function  
+if  | in  | instanceof  | new
+null  | return  | switch  | this
+throw | true  | try | typeof
+var | void  | while | with
 
 ```javascript
 var someVariable;
