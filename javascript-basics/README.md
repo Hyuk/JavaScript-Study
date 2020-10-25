@@ -1,11 +1,11 @@
 # JavaScript-Basics
 
-* [Basics](https://github.com/Hyuk/JavaScript-Study/blob/master/javascript-basics/javascript-basics/basics.md)
+* [Basics](javascript-basics/basics.md)
 
-* [Variable](https://github.com/Hyuk/JavaScript-Study/blob/master/javascript-basics/javascript-basics/variable.md)
+* [Variable](javascript-basics/variable.md)
 
-* [Operation](https://github.com/Hyuk/JavaScript-Study/blob/master/javascript-basics/javascript-basics/operation.md)
+* [Operation](javascript-basics/operation.md)
 
-* [Condition](https://github.com/Hyuk/JavaScript-Study/blob/master/javascript-basics/javascript-basics/condition.md)
+* [Condition](javascript-basics/condition.md)
 
-* [Generators](https://github.com/Hyuk/JavaScript-Study/blob/master/javascript-basics/javascript-basics/generator.md)
+* [Generators](javascript-basics/generator.md)
